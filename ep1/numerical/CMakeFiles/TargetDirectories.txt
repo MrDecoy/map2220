@@ -1,0 +1,3 @@
+/Users/andreperello/Repositories/IME/courses/MAP2220/EP1/numerical/CMakeFiles/edit_cache.dir
+/Users/andreperello/Repositories/IME/courses/MAP2220/EP1/numerical/CMakeFiles/rebuild_cache.dir
+/Users/andreperello/Repositories/IME/courses/MAP2220/EP1/numerical/CMakeFiles/numerical.dir

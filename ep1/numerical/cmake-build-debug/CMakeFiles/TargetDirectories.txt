@@ -1,0 +1,3 @@
+/Users/andreperello/Repositories/IME/courses/MAP2220/EP1/numerical/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andreperello/Repositories/IME/courses/MAP2220/EP1/numerical/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andreperello/Repositories/IME/courses/MAP2220/EP1/numerical/cmake-build-debug/CMakeFiles/numerica.dir
